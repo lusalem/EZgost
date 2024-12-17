@@ -10,6 +10,6 @@ wget --no-check-certificate -O gost.sh https://raw.githubusercontent.com/qqrroot
 
 国内机器
 
-wget --no-check-certificate -O gost.sh https://ghp.ci/https://raw.githubusercontent.com/qqrrooty/EZgost/main/CN/gost.sh && chmod +x gost.sh && ./gost.sh
+wget --no-check-certificate -O gost.sh https://gh-proxy.com/https://raw.githubusercontent.com/qqrrooty/EZgost/main/CN/gost.sh && chmod +x gost.sh && ./gost.sh
 
 再次运行本脚本只需要输入./gost.sh回车即可
